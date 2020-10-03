@@ -3,11 +3,11 @@ A collection of resource about Multi-Object-Tracking; Activity recognition;
 ### An introduction to basic computer vision tasks for starter with jupyter notebooks:
 |     Task     |  Model | Dataset |  TODO |
 |:------------:| :----: | :------:| :----:|
-| Classification + Localization | ResNet18 | Kangaroo | no |
-| Segmentation | Fully Connectional Network (FCN) | | no |
-| 2D object detection | FasterRCNN | COCO dataset | no |
-| Instance segmentation | MaskRCNN | PennFudan dataset | yes |
-| Keypoints estimation |  | | no |
+| Classification + Localization | ResNet18 | Kangaroo & Raccoon| no |
+| Segmentation | Fully Connectional Network (FCN) | PennFudan | no |
+| 2D object detection | FasterRCNN | COCO | yes |
+| Instance segmentation | MaskRCNN | PennFudan | yes |
+| Instance segmentatin & Keypoints estimation | MaskRCNN | COCO | no |
 
 # This is first title
 
