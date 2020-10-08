@@ -20,7 +20,7 @@
  * AR-Net: Adaptive Frame Resolution for Efficient Action Recognition [pdf](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123520086.pdf); [Supp](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123520086-supp.pdf)
  * Temporal Distinct Representation Learning for Action Recognition [pdf](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123520358.pdf)
  * HARD-Net: Hardness-AwaRe Discrimination Network for 3D Early Activity Prediction [pdf](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123560409.pdf)
- * Actions as Moving Points (action detection) [pdf](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123610069.pdf); [Supp](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123610069-supp.zip)
+ * Actions as Moving Points (action detection) [pdf](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123610069.pdf); [Supp](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123610069-supp.zip); [code](https://github.com/MCG-NJU/MOC-Detector)
  * Temporal Aggregate Representations for Long-Range Video Understanding [pdf](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123610154.pdf); [Supp](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123610154-supp.zip)
 * Group Activity Prediction with Sequential Relational Anticipation Model [pdf](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123660579.pdf);
 * On Diverse Asynchronous Activity Anticipation [pdf](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123740766.pdf); [Supp](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123740766-supp.pdf)
