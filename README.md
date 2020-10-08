@@ -1,5 +1,9 @@
 # MOT-AE
 A collection of resource about Multi-Object-Tracking; Activity recognition;
+
+## Structure
+### [SATO research papers](./SATO)
+
 ### An introduction to basic computer vision tasks for starter with jupyter notebooks:
 |     Task     |  Model | Dataset |  TODO |
 |:------------:| :----: | :------:| :----:|
