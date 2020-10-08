@@ -2,7 +2,7 @@
 A collection of resource about Multi-Object-Tracking; Activity recognition;
 
 ## Structure
-### SOTA research papers [here](https://github.com/wantsu/MOT-AE/SOTA)
+### SOTA research papers [here](https://github.com/wantsu/MOT-AE/tree/master/SOTA%20Reseach%20Papers)
 
 ### An introduction to basic computer vision tasks for starter with jupyter notebooks:
 |     Task     |  Model | Dataset |  TODO |
