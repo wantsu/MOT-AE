@@ -24,3 +24,18 @@
  * Temporal Aggregate Representations for Long-Range Video Understanding [pdf](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123610154.pdf); [Supp](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123610154-supp.zip)
 * Group Activity Prediction with Sequential Relational Anticipation Model [pdf](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123660579.pdf);
 * On Diverse Asynchronous Activity Anticipation [pdf](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123740766.pdf); [Supp](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123740766-supp.pdf)
+
+
+#### Multi-Object Tracking
+* __Segment as Points for Efficient Online Multi-Object Tracking and Segmentation__ [pdf](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123460256.pdf); [Supp](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123460256-supp.zip); [Code](https://github.com/detectRecog/PointTrack)
+* __Chained-Tracker: Chaining Paired Attentive Regression Results for End-to-End Joint Multiple-Object Detection and Tracking__ [pdf](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123490137.pdf); [Supp](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123490137-supp.zip); [Code](github.com/pjl1995/CTracker)
+* __Towards Real-Time Multi-Object Tracking__ [pdf](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123560103.pdf); [Supp](); [Code](https://github.com/Zhongdao/Towards-Realtime-MOT)
+* __Ocean: Object-aware Anchor-free Tracking__ [pdf](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123660766.pdf); [Supp](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123660766-supp.pdf); [Code](https://github.com/researchmm/TracKit)
+* Temporal Keypoint Matching and Refinement Network for Pose Estimation and Tracking [pdf](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123670681.pdf); [Supp](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123670681-supp.pdf);
+* __Know Your Surroundings: Exploiting Scene Information for Object Tracking__ [pdf](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123680205.pdf); [Supp](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123680205-supp.zip);
+* __Simultaneous Detection and Tracking with Motion Modelling for Multiple Object Tracking__ [pdf](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123690613.pdf); [Supp](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123690613-supp.pdf); [Code](https://github.com/shijieS/DMMN)
+
+#### Dataset
+
+* TAO: A Large-Scale Benchmark for Tracking Any Object [pdf](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123500426.pdf); [Supp](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123500426-supp.pdf);
+* 
