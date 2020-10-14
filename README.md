@@ -1,9 +1,11 @@
-# MOT-AE
-A collection of resource about Multi-Object-Tracking; Activity recognition;
+# Overall
+A collection of resource about Object Detection; Multi-Object-Tracking; Activity recognition, ...;
+
 
 ## Structure
 ### SOTA research papers [here](https://github.com/wantsu/MOT-AE/tree/master/SOTA%20Reseach%20Papers)
 
+### notebook tutorial TODO
 ### An introduction to basic computer vision tasks for starter with jupyter notebooks:
 |     Task     |  Model | Dataset |  TODO |
 |:------------:| :----: | :------:| :----:|
