@@ -35,6 +35,19 @@
 * __Know Your Surroundings: Exploiting Scene Information for Object Tracking__ [pdf](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123680205.pdf); [Supp](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123680205-supp.zip);
 * __Simultaneous Detection and Tracking with Motion Modelling for Multiple Object Tracking__ [pdf](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123690613.pdf); [Supp](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123690613-supp.pdf); [Code](https://github.com/shijieS/DMMN)
 
+
+#### Motion Prediction
+* Long-term Human Motion Prediction with Scene Context [pdf](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123460375.pdf); [Supp](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123460375-supp.zip); [Code](https://people.eecs.berkeley.edu/~zhecao/hmp/index.html)
+* It is not the Journey but the Destination: Endpoint Conditioned [pdf](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123470749.pdf); [Supp](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123470749-supp.zip); [Code](https://karttikeya.github.io/publication/htf/)
+* __DLow: Diversifying Latent Flows for Diverse Human Motion Prediction__ [pdf](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123540324.pdf); [Supp](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123540324-supp.zip); [Code](https://github.com/Khrylx/DLow)
+* __AutoTrajectory: Label-free Trajectory Extraction and Prediction from Videos using Dynamic Points__ [pdf](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123580630.pdf); [Supp](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123580630-supp.pdf)
+* History Repeats Itself: Human Motion Prediction via Motion Attention [pdf](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123590460.pdf); [Supp](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123590460-supp.zip)
+* Dynamic and Static Context-aware LSTM for Multi-agent Motion Prediction [pdf](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123660545.pdf); [Supp](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123660545-supp.zip)
+* __Object Tracking using Spatio-Temporal Networks for Future Prediction Location__ [pdf](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123670001.pdf)
+
+#### Self-Driving
+
+
 #### Dataset
 
 * TAO: A Large-Scale Benchmark for Tracking Any Object [pdf](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123500426.pdf); [Supp](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123500426-supp.pdf);
