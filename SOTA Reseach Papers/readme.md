@@ -34,6 +34,7 @@
 * Temporal Keypoint Matching and Refinement Network for Pose Estimation and Tracking [pdf](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123670681.pdf); [Supp](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123670681-supp.pdf);
 * __Know Your Surroundings: Exploiting Scene Information for Object Tracking__ [pdf](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123680205.pdf); [Supp](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123680205-supp.zip);
 * __Simultaneous Detection and Tracking with Motion Modelling for Multiple Object Tracking__ [pdf](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123690613.pdf); [Supp](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123690613-supp.pdf); [Code](https://github.com/shijieS/DMMN)
+* __Tracking Objects as Points__; [pdf](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123490460.pdf); [Supp](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123490460-supp.pdf)
 
 
 #### Motion Prediction
