@@ -47,7 +47,15 @@
 * __Object Tracking using Spatio-Temporal Networks for Future Prediction Location__ [pdf](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123670001.pdf)
 
 #### Self-Driving
-
+* DSDNet: Deep Structured self-Driving Network [pdf](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123660154.pdf); [Supp](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123660154-supp.zip)
+* DA4AD: End-to-End Deep Attention-based Visual Localization for Autonomous Driving [pdf](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123730273.pdf); [Supp](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123730273-supp.zip)
+* Learning Lane Graph Representations for Motion Forecasting [pdf](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123470528.pdf); [Supp](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123470528-supp.zip)
+* V2VNet: Vehicle-to-Vehicle Communication for Joint Perception and Prediction [pdf](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123470596.pdf); [Supp](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123470596-supp.zip)
+* PiP: Planning-informed Trajectory Prediction for Autonomous Driving [pdf](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123660596.pdf); [Supp](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123660596-supp.zip)
+* Perceive, Predict, and Plan: Safe Motion Planning Through Interpretable Semantic Representations [pdf](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123680409.pdf); [Supp](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123680409-supp.zip)
+* Testing the Safety of Self-driving Vehicles by Simulating Perception and Prediction	[pdf](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123710307.pdf); [Supp](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123710307-supp.pdf)
+* SMART: Simultaneous Multi-Agent Recurrent Trajectory Prediction	[pdf](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123720460.pdf); [Supp](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123720460-supp.zip)
+* Implicit Latent Variable Model for Scene-Consistent Motion Forecasting [pdf](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123680613.pdf); [Supp](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123680613-supp.zip)
 
 #### Dataset
 
